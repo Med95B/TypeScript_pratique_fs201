@@ -1,0 +1,8 @@
+body{
+    display: grid;
+    place-items: center;
+  }
+  #list{
+    list-style-type: none;
+    padding: 0;
+  }
